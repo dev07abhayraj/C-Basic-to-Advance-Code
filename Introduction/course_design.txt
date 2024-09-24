@@ -1,0 +1,39 @@
+This basic to advance C Language course includes all the terminology used in the C Language with 10+ Projects at the End and atleast 2 example of each topic that we cover in each chapter or level.
+
+The Course Content Given Below : (Level 1 to Level 35)
+
+1. Syntax 
+2. Output "Hello World"
+3. Comments
+4. Operators
+5. Data Types 
+6. Variables 
+7. Input "Enter a value"
+8. Type casting
+9. Tokens
+10. Indentifiers
+11. Eascape Sequence
+12. Constant 
+13. Keywords
+14. Header file (The Preprocessor file)
+15. Boolean
+16. Conditional Statement ( if, else, elif and goto )
+17. Control Statement ( for , while , do while , continue )
+18. Switch Statement ( switch , case, default , break )
+19. String and String Functions
+20. Functions
+21. Recursion with 15 Additional Examples
+22. Math function 
+23. Memory Address
+24. Pointer
+25. Array
+26. File handling
+27. C structure
+28. C enumeration
+29. memory management
+30. exceptional handling 
+31. Types of Errors
+32. Time and Space Complexity
+33. Projects
+34. GATE TOP 30 Questions
+35. GATE 185 PYQ with exaplanation

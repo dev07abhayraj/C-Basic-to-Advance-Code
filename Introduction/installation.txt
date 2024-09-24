@@ -1,0 +1,17 @@
+To run C Program in a system / PC we need some software to install I am attaching the link to download all the software and extension names.
+
+Two main software and 2 extensions
+
+1. MinGW ( https://sourceforge.net/projects/mingw/files/Installer/mingw-get-setup.exe/download ) 
+   Source : sourceforge.net official website
+   Work : It is a C Compiler 
+
+2. Visual Studio Code ( https://code.visualstudio.com/download )
+   Source : visualstudio official website
+   Work : VS Code is a code editor that supports multiple languages like C, C++, Java ,Python, PHP, etc
+
+3. Extensions on Visual Studio Code 
+(a) ( C/C++ Extension Pack) by microsoft 
+(b) ( Code Runner ) by Jun Han
+   
+    Work : The C/C++ Extension Pack enhances C/C++ development in Visual Studio Code by providing IntelliSense, debugging, and code navigation. Code Runner simplifies running code snippets or full programs across multiple languages, including C/C++, with a single click or shortcut, displaying the output instantly in the terminal or output panel.
