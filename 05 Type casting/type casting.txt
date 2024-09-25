@@ -1,0 +1,9 @@
+Type casting : Type casting (also called type conversion) is the process of converting a variable from one data type to another in programming 
+
+In C, type casting allows you to change the data type of a variable or expression, either implicitly (automatically done by the compiler) or explicitly (done manually by the programmer).
+
+
+There are two types of Type Casting : 
+
+1. Implicit Type Casting (Automatic conversion)
+2. Explicit Type Casting (Manual conversion)
