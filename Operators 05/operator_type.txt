@@ -1,5 +1,3 @@
-/*
-
 There are many types of Operators in C language : 
 
 1. Arthmetic Operator
@@ -10,5 +8,3 @@ There are many types of Operators in C language :
 6. Ternary Operator (Conditional Operator)
 7. Relational Operator
 8. Special Operator (*, &,  comma , sizeof() , type() , . , ->)
-
-*/

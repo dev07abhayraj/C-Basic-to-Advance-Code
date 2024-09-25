@@ -5,8 +5,8 @@ The Course Content Given Below : (Level 1 to Level 35)
 1. Syntax 
 2. Output "Hello World"
 3. Comments
-4. Operators
-5. Data Types 
+4. Data Types & Format Specifiers 
+5. Operators
 6. Variables 
 7. Input "Enter a value"
 8. Type casting
