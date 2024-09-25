@@ -8,6 +8,9 @@ There are many types of Data in C language and also in real life
 6. double                       	8 bytes
 7. long ( extra )
 8. short ( extra )
+9. char string 
 
 
 Note : String and boolean are not avaible in C Language.
+
+String can be made or created by using char array

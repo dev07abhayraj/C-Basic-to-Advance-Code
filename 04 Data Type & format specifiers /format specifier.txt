@@ -1,0 +1,12 @@
+Format Specifiers tell the program how to interpret the data being output or input &  used in functions like printf() and scanf()
+
+types of format specifiers are : 
+
+1. Int            %d
+2. unsigned int   %ud
+3. signed int     %d
+4. char           %c
+5. float          %f
+6. double         %f
+7. short          %hd
+8. long           %ld
