@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main (){
-    printf(14 + 7);
+    printf("Sum of "14 + 7);
     printf(14 - 7);
     printf(14 * 7);
     printf(14 / 7);
