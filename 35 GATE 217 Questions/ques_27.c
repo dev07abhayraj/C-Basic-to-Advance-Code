@@ -1,3 +1,5 @@
+// GATE 2000 2 Marks
+
 #include <stdio.h>
 
 int incre(int i){
