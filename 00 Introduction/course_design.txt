@@ -8,12 +8,12 @@ The Course Content Given Below : (Level 1 to Level 35)
 4. Data Types & Format Specifiers 
 5. Variables 
 6. Input "Enter a value"
-7. Operators
-8. Type casting
+7. Constant 
+8. Operators
 9. Tokens
 10. Indentifiers
 11. Eascape Sequence
-12. Constant 
+12. Type casting
 13. Keywords
 14. Header file (The Preprocessor file)
 15. Boolean
