@@ -1,0 +1,13 @@
+There are many types of Data in C language and also in real life
+  
+1. Integer (int)                	2 or 4 bytes
+2. Signed Integer
+3. Unsigned Integer
+4. char                             1 byte
+5. float                            4 bytes
+6. double                       	8 bytes
+7. long ( extra )
+8. short ( extra )
+
+
+Note : String and boolean are not avaible in C Language.

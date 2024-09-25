@@ -6,15 +6,15 @@ The Course Content Given Below : (Level 1 to Level 35)
 2. Output "Hello World"
 3. Comments
 4. Data Types & Format Specifiers 
-5. Variables 
-6. Input "Enter a value"
-7. Constant 
-8. Operators
-9. Tokens
+5. Type casting 
+6. Variables  
+7. Input "Enter a value" 
+8. Constant 
+9. Operators 
 10. Indentifiers
 11. Eascape Sequence
-12. Type casting
-13. Keywords
+12. Keywords 
+13. Tokens
 14. Header file (The Preprocessor file)
 15. Boolean
 16. Conditional Statement ( if, else, elif and goto )
