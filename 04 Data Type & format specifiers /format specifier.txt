@@ -10,3 +10,4 @@ types of format specifiers are :
 6. double         %f
 7. short          %hd
 8. long           %ld
+9. pointer        %p

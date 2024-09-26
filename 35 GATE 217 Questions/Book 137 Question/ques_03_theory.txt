@@ -1,0 +1,27 @@
+---------------------------------------------- Question No. 03 -------------------------------------------------
+
+Year  : 1989 language of the of the of
+
+Marks : 2
+
+Theory type :
+
+Match the colum 
+
+List 1                                         List 2 
+
+(A) Pointer data type                          (P) Type Conversion
+(B) Activation Record                          (Q) Dynamic data structure
+(C) Repeat-until                               (R) Recursion
+(D) Coercion                                   (S) Nondeterministic loop
+
+
+------------------------------------------------- ANSWER -------------------------------------------------
+
+
+List 1                                         List 2 
+
+(A) Pointer data type                          (P) Dynamic data structure
+(B) Activation Record                          (Q) Recursion
+(C) Repeat-until                               (R) Nondeterministic loop
+(D) Coercion                                   (S) Type Conversion
