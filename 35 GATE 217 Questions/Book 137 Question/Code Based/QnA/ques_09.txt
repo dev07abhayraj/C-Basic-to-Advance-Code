@@ -1,0 +1,18 @@
+------------------------------------------- Question No. 06 -------------------------------------------------
+
+Year  : 1993
+Marks : 2
+
+PASCAL program
+
+Ques 09. What does the following code do ?
+
+(a). exchange (a) and (b)
+(b). doubles (a) and stores in (b)
+(c). doubles (b) and stores in (a) 
+(d). leaves (a) and (b) unchanged 
+
+Answer : Option (a) exchange (a) and (b)
+
+
+---------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+---------------------------------------------- Question No. 10 -------------------------------------------------
+
+Year  : 1994
+
+Marks : 2
+
+Theory type :
+
+Ques no. 10 FORTRAN implementation do not permit recursion because
+
+(a) they use static allocation for variables
+(b) they use dynamic allocation for variables
+(c) stacks are not available on all machines
+(d) it is not possible to implement recursion on all machines 
+
+
+Answer is (a) they use static allocation for variables
+
+-------------------------------------------------------------------------------------------------------------

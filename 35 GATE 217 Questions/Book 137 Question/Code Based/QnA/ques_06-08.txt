@@ -1,0 +1,53 @@
+------------------------------------------- Question No. 06 -------------------------------------------------
+
+Year  : 1993
+Marks : 2
+
+PASCAL program
+
+Consider the pascal program shown in (Pascal Programs Folder/ques_06.pas)
+
+Ques.06 : The value of m, output by the program PARAM is 
+
+(a) 1, because m is a local variable in P
+(b) 0, because m is the actual parameter that corresponds to the formal parameter in P
+(c) 0, because both x and y are just references to m and y has the value 0
+(d) 1, because both x and y are just references to m which gets modified in procedure P
+
+Answer : Option (a)
+
+
+------------------------------------------- Question No. 07 -------------------------------------------------
+
+Year  : 1993
+Marks : 2
+
+PASCAL program
+
+Ques.07 : The value of n, output by the program PARAM is 
+
+(a) 0, because n is the actual parameter that corresponds to x in procedure Q.
+(b) 0, because n is the actual parameter to y in procedure Q.
+(c) 1, because n is the actual parameter that corresponds to x in procedure Q.
+(d) 1, because n is the actual parameter that corresponds to y in procedure Q.
+(e) none of the above
+
+Answer : Option (a)
+
+------------------------------------------- Question No. 08 -------------------------------------------------
+
+Year  : 1993
+Marks : 2
+
+PASCAL program
+
+Ques.08 : What is the scope of m declared in the main program ?
+
+(a) PARAM,P,Q
+(b) PARAM,P
+(c) PARAM,Q
+(d) P,Q
+
+Answer : Option (c) PARAM,Q
+
+------------------------------------------------------------------------------------------- ------------------
