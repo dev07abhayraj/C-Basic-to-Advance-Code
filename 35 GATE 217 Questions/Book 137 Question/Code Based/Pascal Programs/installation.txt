@@ -1,0 +1,3 @@
+Install PASCAL from the given link below
+
+https://www.freepascal.org/download.html
