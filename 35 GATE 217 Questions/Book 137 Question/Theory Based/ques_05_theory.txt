@@ -1,0 +1,28 @@
+---------------------------------------------- Question No. 05 -------------------------------------------------
+
+Year  : 1993
+
+Marks : 2
+
+Theory type :
+
+
+Match the colum 
+
+List 1                                         List 2 
+
+(A) Small talk                           (P) Logic Programming
+(B) LISP                                 (Q) Data flow programming
+(C) Prolog                               (R) Functional programming
+(D) VAL                                  (S) Object-Oriented programming 
+
+---------------------------------------------- ANSWER -------------------------------------------------
+
+Match the colum 
+
+List 1                                         List 2 
+
+(A) Small talk                           (P) Object-Oriented programming 
+(B) LISP                                 (Q) Functional programming
+(C) Prolog                               (R) Logic Programming
+(D) VAL                                  (S) Data flow programming
